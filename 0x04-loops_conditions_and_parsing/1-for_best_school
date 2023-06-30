@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Bash script that dispays 'Best School' 10x
+
+for x in {1..10}
+do
+	echo "Best School"
+done
