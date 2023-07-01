@@ -5,3 +5,8 @@
 - while loop
 - until loop
 - for loop
+
+### Conditions
+- if else statements
+- elif
+- case statement
