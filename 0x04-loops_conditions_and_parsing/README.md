@@ -9,4 +9,7 @@
 ### Conditions
 - if else statements
 - elif
-- case statement
+
+
+### Case statement
+- Match a value against multiple patterns and execute corresponding code blocks
