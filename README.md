@@ -1,4 +1,4 @@
 system-devops 
-* bash
+* bash scripts
 * linux
 * devops
