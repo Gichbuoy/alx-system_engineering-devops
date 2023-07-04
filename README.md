@@ -1,1 +1,4 @@
-system-devops
+system-devops 
+* bash scripts
+* linux
+* devops
