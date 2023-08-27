@@ -1,5 +1,5 @@
 Host magic-server
-    HostName 98.98.98.98
+    HostName 35.174.205.207
     User ubuntu
     IdentityFile ~/.ssh/school
     PasswordAuthentication no
