@@ -1,5 +1,5 @@
 ## POSTMORTERM
-- An incident postmortem, also known simply as a postmortem or an incident report, is a formalized process used by organizations to analyze and document a significant event or incident that occurred within their systems, operations, or services. This could range from a technical failure (like a server crash) to a process failure (like a data breach or a customer service breakdown).
+- An incident postmortem, also known as a postmortem or an incident report, is a formalized process used by organizations to analyze and document a significant event or incident that occurred within their systems, operations, or services. This could range from a technical failure (like a server crash) to a process failure (like a data breach or a customer service breakdown).
 
 - The main objectives of an incident postmortem are:
 
